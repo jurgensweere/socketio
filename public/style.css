@@ -1,0 +1,5 @@
+* { margin: 0; padding: 0; }
+body { font-size: 16px; }
+form { background-color: #ddd; padding: 6px; position: fixed; bottom: 0; width: 100%; }
+#messages { list-style-type: none; margin: 0; padding: 0; }
+#messages li { padding: 5px 10px; }
